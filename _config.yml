@@ -10,9 +10,13 @@
 locale                   : "en-US"
 title                    : "Jun Meng / Ph.D"
 title_separator          : "-"
-name                     : "Jun Meng "&name "Your Name"
-description              : &description "personal description"
-url                      : https://junmeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jun Meng"
+description              : &description "Hello! I am a material scientist, dedicated to understanding and exploring materials' properties for their application in the clean energy society. I specialize in understanding various materials' structure, composition, and behavior, from metals and ceramics, using advanced atomic-scale modeling, multi-scale simulation, and materials informatics methods.
+
+Collaboration is at the core of my approach as a material scientist. By working closely with engineers, chemists, and other researchers, I aim to translate my findings into practical applications. Whether designing new catalysts or developing novel fuel cell devices or electronic devices, I thrive on the opportunity to contribute to technological advancements and address real-world challenges.
+
+Continuous learning and staying abreast of the latest advancements in materials science is crucial to my profession. I keep a close eye on emerging materials, AI for Science, and research breakthroughs to remain at the forefront of the field. By combining theoretical knowledge with practical expertise, I am committed to pushing the boundaries of material science and unlocking its immense potential for a better future."
+url                      : https://mengjun.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengjun930/JunMeng.github.io"
 
